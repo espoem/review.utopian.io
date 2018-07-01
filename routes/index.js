@@ -774,7 +774,7 @@ let questionnaire = [
         'The post includes detailed reports including a downloadable activity report as well as bidding strategy, and detailed reasoning behind campaign planning and execution.',
         'The post includes some details on the campaign progress and results, but could offer additional information.',
         'The post lacks sufficient information to fully understand the work performed.',
-        'The post includes no proof of authorship and/or lacks campaign result details completely'
+        'The post includes no proof of authorship and/or lacks campaign result details completely.'
       ]
     },
     {
