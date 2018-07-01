@@ -463,7 +463,7 @@ let questionnaire = [
       question: 'Was the contribution used in the project? (ex.: the graphic design is already utilized in play store, project website or got merged into the official repository)',
       answers: [
         'Select your option',
-        'Yes and the contributor provided clear evidence of it , and/or the project owner publicly announced that it will be used.',
+        'Yes, and the contributor provided clear evidence of it in their post.',
         'It was not used, but the project owner liked it and considered using it.',
         'It was not used, but is of very high quality.',
         'It was not used as it provides no value to the project.'
