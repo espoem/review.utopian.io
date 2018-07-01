@@ -171,7 +171,7 @@ let questionnaire = [
         'Polished and well-written',
         'Good, but has room for improvement',
         'Has a few errors that need to be corrected',
-        'It’s quite bad'
+        'It is of low quality'
       ]
     },
     {
