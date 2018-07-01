@@ -850,13 +850,13 @@ let questionnaire = [
       ]
     },
     {
-      question: 'How would you rate the overall value of this contribution on the open source community and ecosystem?',
+      question: 'How would you rate the overall value the contribution solving this task will bring to the open source community?',
       answers: [
         'Select your option',
-        'This contribution brings great and impactful value, and can be used for applications outside the specific project.',
-        'This contribution adds significant value to the open source community and ecosystem, or is of critical importance to the specific project.',
-        'This contribution adds some value to the open source community and ecosystem or is only valuable to the specific project.',
-        'This contribution adds nearly no value to the open source community and ecosystem or the specific project.'
+        'This task request, if it can be solved, can bring great, unique and impactful value to the community as a whole.',
+        'This task request, if it can be solved, adds significant value to the open source community, or is of critical importance to the specific project.',
+        'This task request, if it can be solved, adds some value to the open source community or is only valuable to the specific project.',
+        'This task request cannot be solved and/or adds no value to the open source community or the specific project.'
       ]
     },
     {
@@ -876,7 +876,7 @@ let questionnaire = [
         'Obviously crucial for ongoing project development.',
         'It will have a major impact on the development and/or end user experience.',
         'It hold some significance to ongoing project development.',
-        'The solution to this task will have little to no impact on the project'
+        'The solution to this task will have little to no impact on the project.'
       ]
     },
     {
