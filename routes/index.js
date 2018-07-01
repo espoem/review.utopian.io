@@ -394,7 +394,7 @@ let questionnaire = [
         'Yes, it was reported by this contributor and acknowledged by the project owner.',
         'Yes, it was reported by this contributor but has to yet be acknowledged by the project owner.',
         'No, it was not reported, but an effort to contact the project owner has been made.',
-        'No, it was not reported OR there is evidence the user contacted the project owner on behalf of Utopian without permission.'
+        'No, the contributor made no effort to notify the project owner of this issue.'
       ]
     },
     {
